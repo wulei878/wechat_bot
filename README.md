@@ -1,1 +1,1 @@
-# wechat_bot
+# 在https://github.com/liuwons/wxBot这个基础上改的
